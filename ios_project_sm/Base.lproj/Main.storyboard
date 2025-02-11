@@ -40,11 +40,11 @@
                                 <rect key="frame" x="71.666666666666686" y="125.66666666666669" width="250" height="201"/>
                             </imageView>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="EZD-6b-Xn9">
-                                <rect key="frame" x="76.666666666666686" y="366.66666666666669" width="240" height="128"/>
+                                <rect key="frame" x="56.666666666666657" y="366.66666666666669" width="280" height="200.00000000000006"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                 <constraints>
-                                    <constraint firstAttribute="width" constant="240" id="m5R-jO-H47"/>
-                                    <constraint firstAttribute="height" constant="128" id="xUl-pD-env"/>
+                                    <constraint firstAttribute="width" constant="280" id="m5R-jO-H47"/>
+                                    <constraint firstAttribute="height" constant="200" id="xUl-pD-env"/>
                                 </constraints>
                             </view>
                         </subviews>

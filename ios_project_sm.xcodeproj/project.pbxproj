@@ -6,13 +6,8 @@
 	objectVersion = 77;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		DEBA5BDA2D5A551B0023C595 /* Inter.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DEBA5BD92D5A551B0023C595 /* Inter.ttf */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXFileReference section */
 		DEBA5BBF2D59A89E0023C595 /* ios_project_sm.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ios_project_sm.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		DEBA5BD92D5A551B0023C595 /* Inter.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Inter.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -75,7 +70,6 @@
 		DEBA5BD82D5A546F0023C595 /* Fonts */ = {
 			isa = PBXGroup;
 			children = (
-				DEBA5BD92D5A551B0023C595 /* Inter.ttf */,
 			);
 			path = Fonts;
 			sourceTree = "<group>";
@@ -144,7 +138,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DEBA5BDA2D5A551B0023C595 /* Inter.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
